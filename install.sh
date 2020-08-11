@@ -1,3 +1,3 @@
 #!/bin/bash
 
-wget -O- >/opt/retropie/configs/all
+wget -O- https://raw.githubusercontent.com/julenvitoria/FreeplayGBAcm3-Emulators.cfg/master/emulators.cfg>/opt/retropie/configs/all
