@@ -1,3 +1,3 @@
 #!/bin/bash
 
-cp emulators.cfg /opt/retropie/configs/all
+wget -O- >/opt/retropie/configs/all
