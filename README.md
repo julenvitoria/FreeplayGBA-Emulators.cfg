@@ -12,4 +12,4 @@ For Freeplay GBA RPi Zero
 
     wget -O- https://raw.githubusercontent.com/julenvitoria/FreeplayGBA-Emulators.cfg/master/zero/UpdateEmulators.sh | bash
 
-NOTE:IT IS NECCESARY THAT YOUR GBA HAS INTERNET CONNECTION
+NOTE: IT'S NECCESARY THAT YOUR GBA HAS INTERNET CONNECTION
