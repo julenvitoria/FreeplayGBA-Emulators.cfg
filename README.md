@@ -1,4 +1,5 @@
 # FreeplayGBAcm3-Emulators.cfg
+
 Repo for emulators.cfg
 
 How to install/update emulators.cfg
